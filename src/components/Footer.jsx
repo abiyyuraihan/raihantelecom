@@ -7,7 +7,7 @@ const Footer = () => {
         <p className="text-center text-gray-400">
           {"Copyright © "}
           <a
-            href="https://justraihan.vercel.app/"
+            href="https://raihantelecom.vercel.app/"
             className="text-white hover:text-stone-500"
             target="_blank"
             rel="noopener noreferrer"
