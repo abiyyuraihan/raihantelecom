@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const About = () => {
   const [text, setText] = useState("");
   const fullText =
-    "RaihanTelecom adalah penyedia layanan internet terpercaya yang berkomitmen untuk memberikan konektivitas berkualitas tinggi kepada pelanggan kami. Dengan fokus pada inovasi dan layanan pelanggan yang prima, kami menyediakan berbagai paket internet dan WiFi yang dirancang untuk memenuhi kebutuhan rumah tangga dan bisnis. Didukung oleh infrastruktur modern dan tim teknis yang berpengalaman, RaihanTelecom siap menjadi mitra andalan Anda dalam era digital.";
+    "RaaihanTelecom adalah penyedia layanan internet terpercaya yang berkomitmen untuk memberikan konektivitas berkualitas tinggi kepada pelanggan kami. Dengan fokus pada inovasi dan layanan pelanggan yang prima, kami menyediakan berbagai paket internet dan WiFi yang dirancang untuk memenuhi kebutuhan rumah tangga dan bisnis. Didukung oleh infrastruktur modern dan tim teknis yang berpengalaman, RaihanTelecom siap menjadi mitra andalan Anda dalam era digital.";
 
   useEffect(() => {
     let i = 0;
